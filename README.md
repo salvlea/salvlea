@@ -1,18 +1,14 @@
-# Ciao, sono Salvatore! 👋
-### Master's Student in Computer Science · Cybersecurity & Cloud 🔐☁️
+# Ciao, sono Salvo! 👋
 
-Studente magistrale in Informatica con la passione per la **sicurezza informatica**, le **architetture cloud** e l'**intelligenza artificiale**. Mi piace costruire sistemi complessi partendo da zero — da ontologie OWL a pipeline serverless su AWS, passando per password manager crittografici e tool di penetration testing.
+Studente magistrale in Informatica con specializzazione in  **sicurezza informatica**.🔐
 
-- 🔭 Attualmente lavoro su progetti di **Cloud Computing**, **Penetration Testing**, **AI/LLM** e **Analisi Numerica**
-- 🌱 Sempre in fase di apprendimento: sicurezza, cloud e AI evolvono ogni giorno
-- 💬 Chiedimi di **AWS**, **Python**, **Cybersecurity**, **MATLAB** o **Large Language Models**
-- ⚡ Fun fact: *Trovo vulnerabilità nei sistemi degli altri, poi le trovo anche nei miei*
+ Mi piace costruire sistemi complessi partendo da zero; che si tratti di blindare un'applicazione, orchestrare un'architettura AWS o sfruttare modelli LLM, il mio obiettivo è trasformare problemi complessi in codice pulito e architetture resilienti.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Linguaggi**
+**Languages**
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
@@ -29,20 +25,50 @@ Studente magistrale in Informatica con la passione per la **sicurezza informatic
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </div>
 
-**AI & Security**
+**Cybersecurity**
+<div>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+     <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Metasploit-1261B4?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+
+</div>
+
+**AI, LLM & Code Agents**
 <div>
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+    <img src="https://img.shields.io/badge/Perplexity-22B8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+    <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 </div>
 
-**Strumenti**
+**Tools**
 <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</div>
+
+**Framework & API**
+<div>
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logoColor=white" alt="Uvicorn"/>
+    <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</div>
+
+**Testing & Code Quality**
+<div>
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+    <img src="https://img.shields.io/badge/Mypy-2B60B4?style=for-the-badge&logo=python&logoColor=white" alt="Mypy"/>
+    <img src="https://img.shields.io/badge/Flake8-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Flake8"/>
+    <img src="https://img.shields.io/badge/Pylint-232F3E?style=for-the-badge&logo=python&logoColor=white" alt="Pylint"/>
+</div>
+
+**Simulation 3D**
+<div>
+     <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </div>
 
 ---
@@ -120,38 +146,3 @@ Studente magistrale in Informatica con la passione per la **sicurezza informatic
 </table>
 
 ---
-
-## 🤝 Connettiti con me
-
-<div>
-    <a href="mailto:tua@email.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/salvlea">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salvlea&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-<br/>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salvlea&theme=tokyonight" alt="Profile Details"/>
-</div>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salvlea&theme=tokyonight" height="170" alt="Top Languages by Repo"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salvlea&theme=tokyonight" height="170" alt="GitHub Stats"/>
-</div>
-
----
-
-> *La sicurezza non è un prodotto, è un processo. Ogni progetto è un'occasione per imparare ad attaccare e a difendere meglio.*
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=salvlea&style=flat-square&color=6366f1" alt="Profile Views"/>
-</div>
