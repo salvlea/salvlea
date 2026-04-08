@@ -1,6 +1,6 @@
 # Ciao, sono Salvo! 👋
   
-Studente magistrale in Informatica con specializzazione in  **sicurezza informatica**.🔐
+Studente magistrale in Informatica con Curriculun in  **Reti  e sicurezza**.🔐
 
  Mi piace costruire sistemi complessi partendo da zero; che si tratti di blindare un'applicazione, orchestrare un'architettura AWS o sfruttare modelli LLM, il mio obiettivo è trasformare problemi complessi in codice pulito e architetture resilienti.
 
